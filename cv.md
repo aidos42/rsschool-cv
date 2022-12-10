@@ -19,6 +19,10 @@ I hope to expand and deepen my knowledge to be able to do more and apply what I'
 - ExpressJS
 - Docker
 
+## Code
+
+`const multiply = (a, b) => a * b;`
+
 ## Education
 
 **2021-2022**
